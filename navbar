@@ -1,0 +1,11 @@
+# bootstrap
+Bootstrap 4
+Uma das vantagens de usar o Bootstrap é facilitar a responsividade do site.
+Utilizei bastante esse recurso.
+Usei, uma navbar, um modal com formulário de contatos e um carrossel responsivo, alterações de margens, paddings
+Estilizei os códigos CSS e trabalhei com HTML semântico, também usei os grids levando em consideração o tamanho de tela utilizado pelo usuário.
+Ao usar  (navbar) queria trocar a cor do primeiro titulo , retirei uma das class e deu certo.
+//html
+      <a class="navbar-brand fonte-titulo texto-cor-especial" id="cor-titulo" href="#">fruta&fruto</a>
+      
+      Tirei  (navbar-brand ) e deu certo a cor especial voltou a funcionar
